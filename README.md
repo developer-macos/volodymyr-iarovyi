@@ -1,8 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Hi, my name is Dev.
 
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-iarovyi" style="margin-left: 400px"/>
+
 - 👋 Hi, I’m @volodymyr-iarovyi
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML CSS AND JAVASCRIPT.  
