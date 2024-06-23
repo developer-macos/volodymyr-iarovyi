@@ -1,6 +1,6 @@
 # Hi, my name is Dev.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-iarovyi" style="margin-left: 400px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-macos"/>
 
 - 👋 Hi, I’m @volodymyr-iarovyi
 - 👀 I’m interested in web development.
@@ -14,4 +14,4 @@ volodymyr-iarovyi/volodymyr-iarovyi is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=volodymyr-iarovyi&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=developer-macos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
